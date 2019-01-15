@@ -1,7 +1,8 @@
 # README
 
 ## Rails chat app
-Rails 5.1.6.1
+Rails 5.1.6.1 
+
 ruby 2.5.1
 
 ## overview
